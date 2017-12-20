@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#880E4F</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF3E0</color>
+
+    <!-- Background color for the English Song category -->
+    <color name="category_English_Song">#00BCD4</color>
+
+    <!-- Background color for the Arabic Song category -->
+    <color name="category_Arabic_Song">#0277BD</color>
+
+    <!-- Background color for the French Song category -->
+    <color name="category_French_Song">#D50000</color>
+
+    <!-- Background color for the Latin Song category -->
+    <color name="category_Latin_Song">#00BFA5</color>
+</resources>

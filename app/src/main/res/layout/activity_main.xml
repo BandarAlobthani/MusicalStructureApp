@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructureapp.MainActivity">
+
+    <TextView
+        android:id="@+id/english_song"
+        style="@style/CategoryStyle"
+        android:background="@color/category_English_Song"
+        android:text="@string/category_English_Song" />
+
+    <TextView
+        android:id="@+id/arabic_song"
+        style="@style/CategoryStyle"
+        android:background="@color/category_Arabic_Song"
+        android:text="@string/category_Arabic_Song" />
+
+    <TextView
+        android:id="@+id/french_song"
+        style="@style/CategoryStyle"
+        android:background="@color/category_French_Song"
+        android:text="@string/category_French_Song" />
+
+    <TextView
+        android:id="@+id/latin_song"
+        style="@style/CategoryStyle"
+        android:background="@color/category_Latin_Song"
+        android:text="@string/category_Latin_Song" />
+
+
+
+</LinearLayout>

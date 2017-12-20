@@ -1,0 +1,16 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Musical Structure App</string>
+
+    <!-- Category name for English Song [CHAR LIMIT=20] -->
+    <string name="category_English_Song">English Song</string>
+
+    <!-- Category name for Arabic Song [CHAR LIMIT=20] -->
+    <string name="category_Arabic_Song">Arabic Song</string>
+
+    <!-- Category name for French Song [CHAR LIMIT=20] -->
+    <string name="category_French_Song">French Song</string>
+
+    <!-- Category name for Latin Song [CHAR LIMIT=20] -->
+    <string name="category_Latin_Song">Latin Song</string>
+</resources>
